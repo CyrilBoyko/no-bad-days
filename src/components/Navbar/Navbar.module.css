@@ -1,0 +1,18 @@
+.nav {
+    grid-area: n;
+    background-color: cadetblue;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.item a {
+    color: white;
+    text-decoration: none;
+    transition: .5s;
+}
+
+.item a.activeLink {
+    color: darksalmon;
+    padding-left: 10px;
+    transition: .5s;
+}
