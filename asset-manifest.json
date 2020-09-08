@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/no-bad-days/static/css/main.7e19c28e.chunk.css",
-    "main.js": "/no-bad-days/static/js/main.b22cb7d5.chunk.js",
-    "main.js.map": "/no-bad-days/static/js/main.b22cb7d5.chunk.js.map",
-    "runtime-main.js": "/no-bad-days/static/js/runtime-main.e39ab8f0.js",
-    "runtime-main.js.map": "/no-bad-days/static/js/runtime-main.e39ab8f0.js.map",
+    "main.js": "/no-bad-days/static/js/main.fa5b54b8.chunk.js",
+    "main.js.map": "/no-bad-days/static/js/main.fa5b54b8.chunk.js.map",
+    "runtime-main.js": "/no-bad-days/static/js/runtime-main.0bd7212c.js",
+    "runtime-main.js.map": "/no-bad-days/static/js/runtime-main.0bd7212c.js.map",
     "static/js/2.a4effcfc.chunk.js": "/no-bad-days/static/js/2.a4effcfc.chunk.js",
     "static/js/2.a4effcfc.chunk.js.map": "/no-bad-days/static/js/2.a4effcfc.chunk.js.map",
     "static/css/3.c0174037.chunk.css": "/no-bad-days/static/css/3.c0174037.chunk.css",
-    "static/js/3.ea75b178.chunk.js": "/no-bad-days/static/js/3.ea75b178.chunk.js",
-    "static/js/3.ea75b178.chunk.js.map": "/no-bad-days/static/js/3.ea75b178.chunk.js.map",
+    "static/js/3.09a6b512.chunk.js": "/no-bad-days/static/js/3.09a6b512.chunk.js",
+    "static/js/3.09a6b512.chunk.js.map": "/no-bad-days/static/js/3.09a6b512.chunk.js.map",
     "static/css/4.691d462b.chunk.css": "/no-bad-days/static/css/4.691d462b.chunk.css",
-    "static/js/4.97c9be3f.chunk.js": "/no-bad-days/static/js/4.97c9be3f.chunk.js",
-    "static/js/4.97c9be3f.chunk.js.map": "/no-bad-days/static/js/4.97c9be3f.chunk.js.map",
+    "static/js/4.f6cee861.chunk.js": "/no-bad-days/static/js/4.f6cee861.chunk.js",
+    "static/js/4.f6cee861.chunk.js.map": "/no-bad-days/static/js/4.f6cee861.chunk.js.map",
     "index.html": "/no-bad-days/index.html",
-    "precache-manifest.ab08bacb2eeee7acf5fb6b1063b0c1da.js": "/no-bad-days/precache-manifest.ab08bacb2eeee7acf5fb6b1063b0c1da.js",
+    "precache-manifest.bbf93bb68842a4955343f20a5653051c.js": "/no-bad-days/precache-manifest.bbf93bb68842a4955343f20a5653051c.js",
     "service-worker.js": "/no-bad-days/service-worker.js",
     "static/css/3.c0174037.chunk.css.map": "/no-bad-days/static/css/3.c0174037.chunk.css.map",
     "static/css/4.691d462b.chunk.css.map": "/no-bad-days/static/css/4.691d462b.chunk.css.map",
@@ -23,9 +23,9 @@
     "static/media/beach.jpg": "/no-bad-days/static/media/beach.5c8e984d.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e39ab8f0.js",
+    "static/js/runtime-main.0bd7212c.js",
     "static/js/2.a4effcfc.chunk.js",
     "static/css/main.7e19c28e.chunk.css",
-    "static/js/main.b22cb7d5.chunk.js"
+    "static/js/main.fa5b54b8.chunk.js"
   ]
 }
