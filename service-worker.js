@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/no-bad-days/precache-manifest.1ff9c2d0c8ce21aa0b8566cac92d2684.js"
+  "/no-bad-days/precache-manifest.a2fb40ab069330b499d7243750f168e6.js"
 );
 
 self.addEventListener('message', (event) => {
