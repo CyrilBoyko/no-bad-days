@@ -1,31 +1,31 @@
 {
   "files": {
     "main.css": "/no-bad-days/static/css/main.7e19c28e.chunk.css",
-    "main.js": "/no-bad-days/static/js/main.ec5bcf17.chunk.js",
-    "main.js.map": "/no-bad-days/static/js/main.ec5bcf17.chunk.js.map",
-    "runtime-main.js": "/no-bad-days/static/js/runtime-main.dd5df81d.js",
-    "runtime-main.js.map": "/no-bad-days/static/js/runtime-main.dd5df81d.js.map",
-    "static/js/2.9e7e800c.chunk.js": "/no-bad-days/static/js/2.9e7e800c.chunk.js",
-    "static/js/2.9e7e800c.chunk.js.map": "/no-bad-days/static/js/2.9e7e800c.chunk.js.map",
-    "static/css/3.b98278eb.chunk.css": "/no-bad-days/static/css/3.b98278eb.chunk.css",
-    "static/js/3.1fd76986.chunk.js": "/no-bad-days/static/js/3.1fd76986.chunk.js",
-    "static/js/3.1fd76986.chunk.js.map": "/no-bad-days/static/js/3.1fd76986.chunk.js.map",
+    "main.js": "/no-bad-days/static/js/main.20259e87.chunk.js",
+    "main.js.map": "/no-bad-days/static/js/main.20259e87.chunk.js.map",
+    "runtime-main.js": "/no-bad-days/static/js/runtime-main.0a6ce57a.js",
+    "runtime-main.js.map": "/no-bad-days/static/js/runtime-main.0a6ce57a.js.map",
+    "static/js/2.2e7110ff.chunk.js": "/no-bad-days/static/js/2.2e7110ff.chunk.js",
+    "static/js/2.2e7110ff.chunk.js.map": "/no-bad-days/static/js/2.2e7110ff.chunk.js.map",
+    "static/css/3.eba8596f.chunk.css": "/no-bad-days/static/css/3.eba8596f.chunk.css",
+    "static/js/3.ae5da2f7.chunk.js": "/no-bad-days/static/js/3.ae5da2f7.chunk.js",
+    "static/js/3.ae5da2f7.chunk.js.map": "/no-bad-days/static/js/3.ae5da2f7.chunk.js.map",
     "static/css/4.691d462b.chunk.css": "/no-bad-days/static/css/4.691d462b.chunk.css",
-    "static/js/4.109c2929.chunk.js": "/no-bad-days/static/js/4.109c2929.chunk.js",
-    "static/js/4.109c2929.chunk.js.map": "/no-bad-days/static/js/4.109c2929.chunk.js.map",
+    "static/js/4.81de9d87.chunk.js": "/no-bad-days/static/js/4.81de9d87.chunk.js",
+    "static/js/4.81de9d87.chunk.js.map": "/no-bad-days/static/js/4.81de9d87.chunk.js.map",
     "index.html": "/no-bad-days/index.html",
-    "precache-manifest.a2fb40ab069330b499d7243750f168e6.js": "/no-bad-days/precache-manifest.a2fb40ab069330b499d7243750f168e6.js",
+    "precache-manifest.2ac2f2b0242832161ecff7d4608f22db.js": "/no-bad-days/precache-manifest.2ac2f2b0242832161ecff7d4608f22db.js",
     "service-worker.js": "/no-bad-days/service-worker.js",
-    "static/css/3.b98278eb.chunk.css.map": "/no-bad-days/static/css/3.b98278eb.chunk.css.map",
+    "static/css/3.eba8596f.chunk.css.map": "/no-bad-days/static/css/3.eba8596f.chunk.css.map",
     "static/css/4.691d462b.chunk.css.map": "/no-bad-days/static/css/4.691d462b.chunk.css.map",
     "static/css/main.7e19c28e.chunk.css.map": "/no-bad-days/static/css/main.7e19c28e.chunk.css.map",
-    "static/js/2.9e7e800c.chunk.js.LICENSE.txt": "/no-bad-days/static/js/2.9e7e800c.chunk.js.LICENSE.txt",
+    "static/js/2.2e7110ff.chunk.js.LICENSE.txt": "/no-bad-days/static/js/2.2e7110ff.chunk.js.LICENSE.txt",
     "static/media/beach.jpg": "/no-bad-days/static/media/beach.5c8e984d.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.dd5df81d.js",
-    "static/js/2.9e7e800c.chunk.js",
+    "static/js/runtime-main.0a6ce57a.js",
+    "static/js/2.2e7110ff.chunk.js",
     "static/css/main.7e19c28e.chunk.css",
-    "static/js/main.ec5bcf17.chunk.js"
+    "static/js/main.20259e87.chunk.js"
   ]
 }
