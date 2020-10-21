@@ -2,47 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3cf1b754-552e-4257-ac7e-f5f3cfb03da6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/build/precache-manifest.2f37f082aac54a0b0416b9a4fc605867.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/js/2.5c01b3a4.chunk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/js/2.5c01b3a4.chunk.js.LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/js/2.5c01b3a4.chunk.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/js/3.68f44811.chunk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/js/3.68f44811.chunk.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/js/4.fb832dad.chunk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/js/4.fb832dad.chunk.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/js/main.346e4861.chunk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/js/main.346e4861.chunk.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/js/runtime-main.b57d02ca.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/js/runtime-main.b57d02ca.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@types/hoist-non-react-statics/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@types/hoist-non-react-statics/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@types/react-redux/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/@types/react-redux/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/precache-manifest.2723a315b37b604b7f1e9eeba9e98ff3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/static/js/main.4e9b3d3b.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/static/js/main.4e9b3d3b.chunk.js.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/asset-manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/precache-manifest.b980ec098fcdbbb813f00d9440cc2dae.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/precache-manifest.2f37f082aac54a0b0416b9a4fc605867.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/service-worker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/2.2e7110ff.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/2.2e7110ff.chunk.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/2.2e7110ff.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/3.ae5da2f7.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/3.ae5da2f7.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/4.81de9d87.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/4.81de9d87.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.fb66a6e4.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.fb66a6e4.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/runtime-main.b8e74417.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/runtime-main.b8e74417.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.346e4861.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.346e4861.chunk.js.map" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/gh-pages/github.com!CyrilBoyko!no-bad-days.git" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/gh-pages/github.com!CyrilBoyko!no-bad-days.git" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileStatus.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileStatus.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Users/Users.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Users/Users.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Users/UsersContainer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Users/UsersContainer.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/common/Paginator/Paginator.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/common/Paginator/Paginator.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/redux-store.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/redux-store.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/users-selectors.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/users-selectors.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/users-reducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/users-reducer.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -138,7 +109,9 @@
       <workItem from="1602160987224" duration="17490000" />
       <workItem from="1602186879280" duration="3170000" />
       <workItem from="1602328357968" duration="1776000" />
-      <workItem from="1602331266839" duration="12585000" />
+      <workItem from="1602331266839" duration="12939000" />
+      <workItem from="1603101485221" duration="1782000" />
+      <workItem from="1603283056776" duration="2918000" />
     </task>
     <servers />
   </component>
