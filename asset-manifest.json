@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/no-bad-days/static/css/main.7e19c28e.chunk.css",
-    "main.js": "/no-bad-days/static/js/main.4e9b3d3b.chunk.js",
-    "main.js.map": "/no-bad-days/static/js/main.4e9b3d3b.chunk.js.map",
+    "main.js": "/no-bad-days/static/js/main.0867e0e2.chunk.js",
+    "main.js.map": "/no-bad-days/static/js/main.0867e0e2.chunk.js.map",
     "runtime-main.js": "/no-bad-days/static/js/runtime-main.b57d02ca.js",
     "runtime-main.js.map": "/no-bad-days/static/js/runtime-main.b57d02ca.js.map",
-    "static/js/2.5c01b3a4.chunk.js": "/no-bad-days/static/js/2.5c01b3a4.chunk.js",
-    "static/js/2.5c01b3a4.chunk.js.map": "/no-bad-days/static/js/2.5c01b3a4.chunk.js.map",
+    "static/js/2.63cf3e19.chunk.js": "/no-bad-days/static/js/2.63cf3e19.chunk.js",
+    "static/js/2.63cf3e19.chunk.js.map": "/no-bad-days/static/js/2.63cf3e19.chunk.js.map",
     "static/css/3.b98278eb.chunk.css": "/no-bad-days/static/css/3.b98278eb.chunk.css",
     "static/js/3.68f44811.chunk.js": "/no-bad-days/static/js/3.68f44811.chunk.js",
     "static/js/3.68f44811.chunk.js.map": "/no-bad-days/static/js/3.68f44811.chunk.js.map",
@@ -14,18 +14,18 @@
     "static/js/4.fb832dad.chunk.js": "/no-bad-days/static/js/4.fb832dad.chunk.js",
     "static/js/4.fb832dad.chunk.js.map": "/no-bad-days/static/js/4.fb832dad.chunk.js.map",
     "index.html": "/no-bad-days/index.html",
-    "precache-manifest.2723a315b37b604b7f1e9eeba9e98ff3.js": "/no-bad-days/precache-manifest.2723a315b37b604b7f1e9eeba9e98ff3.js",
+    "precache-manifest.db47486674bc864df2e6c55e0b362542.js": "/no-bad-days/precache-manifest.db47486674bc864df2e6c55e0b362542.js",
     "service-worker.js": "/no-bad-days/service-worker.js",
     "static/css/3.b98278eb.chunk.css.map": "/no-bad-days/static/css/3.b98278eb.chunk.css.map",
     "static/css/4.691d462b.chunk.css.map": "/no-bad-days/static/css/4.691d462b.chunk.css.map",
     "static/css/main.7e19c28e.chunk.css.map": "/no-bad-days/static/css/main.7e19c28e.chunk.css.map",
-    "static/js/2.5c01b3a4.chunk.js.LICENSE.txt": "/no-bad-days/static/js/2.5c01b3a4.chunk.js.LICENSE.txt",
+    "static/js/2.63cf3e19.chunk.js.LICENSE.txt": "/no-bad-days/static/js/2.63cf3e19.chunk.js.LICENSE.txt",
     "static/media/beach.jpg": "/no-bad-days/static/media/beach.5c8e984d.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.b57d02ca.js",
-    "static/js/2.5c01b3a4.chunk.js",
+    "static/js/2.63cf3e19.chunk.js",
     "static/css/main.7e19c28e.chunk.css",
-    "static/js/main.4e9b3d3b.chunk.js"
+    "static/js/main.0867e0e2.chunk.js"
   ]
 }
