@@ -2,18 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3cf1b754-552e-4257-ac7e-f5f3cfb03da6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/build/precache-manifest.2723a315b37b604b7f1e9eeba9e98ff3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/js/main.4e9b3d3b.chunk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/js/main.4e9b3d3b.chunk.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/precache-manifest.db47486674bc864df2e6c55e0b362542.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/static/js/2.63cf3e19.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/static/js/2.63cf3e19.chunk.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/static/js/2.63cf3e19.chunk.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/static/js/main.0867e0e2.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/static/js/main.0867e0e2.chunk.js.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/asset-manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/precache-manifest.2f37f082aac54a0b0416b9a4fc605867.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/precache-manifest.2723a315b37b604b7f1e9eeba9e98ff3.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/service-worker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.346e4861.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.346e4861.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/gh-pages/github.com!CyrilBoyko!no-bad-days.git" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/gh-pages/github.com!CyrilBoyko!no-bad-days.git" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/users-reducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/users-reducer.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/2.5c01b3a4.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/2.5c01b3a4.chunk.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/2.5c01b3a4.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.4e9b3d3b.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.4e9b3d3b.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/api.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/auth-reducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/auth-reducer.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -111,7 +117,9 @@
       <workItem from="1602328357968" duration="1776000" />
       <workItem from="1602331266839" duration="12939000" />
       <workItem from="1603101485221" duration="1782000" />
-      <workItem from="1603283056776" duration="2918000" />
+      <workItem from="1603283056776" duration="3121000" />
+      <workItem from="1603528351382" duration="3923000" />
+      <workItem from="1603546675884" duration="4534000" />
     </task>
     <servers />
   </component>
