@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dc904aa11455114e44923fe3ba8bae17",
+    "revision": "b0fd1ba692deb93e93e2fef3f1814dd4",
     "url": "/no-bad-days/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/no-bad-days/static/css/4.691d462b.chunk.css"
   },
   {
-    "revision": "d88d9302eea01e1d3a0a",
+    "revision": "a624c9fe6549df86886c",
     "url": "/no-bad-days/static/css/main.7e19c28e.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/no-bad-days/static/js/4.fb832dad.chunk.js"
   },
   {
-    "revision": "d88d9302eea01e1d3a0a",
-    "url": "/no-bad-days/static/js/main.bfc20c52.chunk.js"
+    "revision": "a624c9fe6549df86886c",
+    "url": "/no-bad-days/static/js/main.49ca6482.chunk.js"
   },
   {
     "revision": "457064c93b6ba638a90a",
