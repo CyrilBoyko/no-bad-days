@@ -2,24 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3cf1b754-552e-4257-ac7e-f5f3cfb03da6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/build/precache-manifest.db47486674bc864df2e6c55e0b362542.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/js/2.63cf3e19.chunk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/js/2.63cf3e19.chunk.js.LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/js/2.63cf3e19.chunk.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/js/main.0867e0e2.chunk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/js/main.0867e0e2.chunk.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/precache-manifest.32ab9fa0379e8ca3e84526465fc29951.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/static/js/main.bfc20c52.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/static/js/main.bfc20c52.chunk.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/history/DOMUtils.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/history/ExecutionEnvironment.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/history/LocationUtils.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/history/PathUtils.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/history/createBrowserHistory.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/history/createHashHistory.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/history/createMemoryHistory.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/history/createTransitionManager.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/history/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/history/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/react-router-dom/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/react-router-dom/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/react-router/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/@types/react-router/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/asset-manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/precache-manifest.2723a315b37b604b7f1e9eeba9e98ff3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/precache-manifest.db47486674bc864df2e6c55e0b362542.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/service-worker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/2.5c01b3a4.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/2.5c01b3a4.chunk.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/2.5c01b3a4.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.4e9b3d3b.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.4e9b3d3b.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/api.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/auth-reducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/auth-reducer.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.0867e0e2.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.0867e0e2.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/gh-pages/github.com!CyrilBoyko!no-bad-days.git" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/gh-pages/github.com!CyrilBoyko!no-bad-days.git" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Login/Login.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Login/Login.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/common/FormsControls/FormsControls.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/common/FormsControls/FormsControls.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/validators/validators.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/validators/validators.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +71,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="npm.deploy">
+  <component name="RunManager" selected="npm.start">
     <configuration name="deploy" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -82,8 +94,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.deploy" />
         <item itemvalue="npm.start" />
+        <item itemvalue="npm.deploy" />
       </list>
     </recent_temporary>
   </component>
@@ -120,6 +132,8 @@
       <workItem from="1603283056776" duration="3121000" />
       <workItem from="1603528351382" duration="3923000" />
       <workItem from="1603546675884" duration="4534000" />
+      <workItem from="1603918771396" duration="15000" />
+      <workItem from="1604083391047" duration="13174000" />
     </task>
     <servers />
   </component>
