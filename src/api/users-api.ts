@@ -1,5 +1,4 @@
 import {GetItemsType, instance} from "./api";
-import {AxiosPromise} from "axios";
 
 export const usersAPI = {
     getUsers(currentPage = 1, pageSize = 10) {
